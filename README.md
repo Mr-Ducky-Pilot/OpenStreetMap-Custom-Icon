@@ -1,3 +1,6 @@
+The Bus Icon SVG is provided by Emojitwo.
+Credit for icon:
+Emoji artwork is provided by Emojitwo, originally released as Emojione 2.2 by Ranks.com with contributions from the Emojitwo community and is licensed under CC-BY 4.0.
 # bus_icon_trial
 
 A new Flutter project.
