@@ -72,6 +72,8 @@ class _MapPageState extends State<MapPage> {
   }
 
   Widget _buildBusIcon() {
+    //   Emoji artwork is provided by Emojitwo, originally released as Emojione 2.2 by Ranks.com with contributions from the
+    //Emojitwo community and is licensed under CC-BY 4.0.
     const busIconSvg = '''
 <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 64 64">
 	<path fill="#ffce31" d="M2 38.4h60v16.5H2z" />
